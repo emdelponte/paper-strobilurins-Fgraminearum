@@ -1,5 +1,5 @@
 ---
-title: 'Reproducible report: <br/> Phenotypic and molecular characterization of the resistance QoI in Fusarium graminearum'
+title: 'Reproducible report: <br/> Phenotypic and molecular characterization of the resistance to strobilurins in Fusarium graminearum'
 output:
   html_document:
     css: style.css
